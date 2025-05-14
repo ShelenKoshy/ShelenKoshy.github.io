@@ -1,7 +1,7 @@
 # 🚀 Footwear Sales Performance Dashboard
 **Skills:** SQL, Power BI, Data Visualization
 **ProjectS Summary:** See `docs/` for Project Summary.
-**Report:** [Interactive .pbix](DoeShoes_Report.pbix) | [PDF Export](DoeShoes_Report.pdf)  
+**Report:** [Interactive .pbix](DoeShoes_Report.pbix) | [PDF Export](DoeShoes_ReportPDF.pdf)  
 
 ## 📌 Insights
 - **Top Product:** Doe Runner_F (€32K revenue, 53% from Istanbul).  
