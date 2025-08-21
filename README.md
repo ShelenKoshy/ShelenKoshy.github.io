@@ -1,3 +1,3 @@
 # Shelen Koshy | Retail Data Analyst
-**Skills:** SQL, Excel, PowerBI
+**Skills:** SQL, PowerBI, Tableau, Excel 
 ![ShelenKoshy](Profile.jpg)
